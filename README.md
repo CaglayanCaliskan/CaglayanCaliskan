@@ -1,5 +1,5 @@
 
-### Hi there I'm Caglayan 👋
+### Hi there 👋
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=CaglayanCaliskan)
 
@@ -14,8 +14,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaglayanCaliskan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
-
-- [Linkedin](https://www.linkedin.com/in/caglayan-caliskan/)
-- [Twitter](https://twitter.com/Fastnvy)
-- [Personal Web Site](https://caglayancaliskan.com/)
